@@ -22,4 +22,5 @@ Build and run this project in Netbeans.
 
 ## How Invoice PDF Look Like ->
 
-![invoice](https://user-images.githubusercontent.com/60191225/154706365-c50bc090-78f7-4438-bcf0-7a24f2642eff.JPG)
+![invoicePDF](https://user-images.githubusercontent.com/60191225/154707990-c18a1d40-7a13-48d9-b491-a59fd5167fdd.JPG)
+
