@@ -1,0 +1,16 @@
+jdbc:mysql://localhost:3306/invoice
+root
+
+STARK INTERPRISES
+9076515767
+bittoogupta@gmail.com
+E:\
+*******************************************************************
+All above lines are important for proper functioning of software
+1.url of database 
+2.username of database
+3.password of database
+4.company name
+5.mobile no of company owner
+6.email id of company owner
+7.location to store pdf file of invoice
